@@ -1,0 +1,1 @@
+export const logo = 'https://img.freepik.com/free-photo/elevated-view-two-red-yellow-crumpled-papers_23-2147878568.jpg?size=626&ext=jpg&ga=GA1.2.548799497.1690367930&semt=ais';
